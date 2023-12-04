@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is Aldahir Sánchez</h1>
 <h3 align="center">Jr. Sofware Developer</h3>
 
-- 😁 This profile is the one I use in my job. To see my personal information and projects go here: [https://github.com/aldajairo](https://github.com/aldajairo)
+😁 This profile is the one I use in my job. To see my personal information and projects go here: [https://github.com/aldajairo](https://github.com/aldajairo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
